@@ -78,11 +78,11 @@ if SELF_DELETE == "True":
     SELF_DELETE = True
 
     # Download Tutorial Button #
-DOWNLOAD_TEXT_NAME = "?? HOW TO DOWNLOAD ??"
+DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
 DOWNLOAD_TEXT_URL = "https://t.me/Pros_Movies_Empire/2674"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "??? ???????? ??????"
+CAPTION_BUTTON = "ɴᴇᴡ ʀᴇʟᴇᴀꜱᴇᴅ ᴍᴏᴠɪᴇꜱ"
 CAPTION_BUTTON_URL = "https://t.me/Pros_Movies_Empire"
 
    # Auto Delete For Bot Sending Files #
